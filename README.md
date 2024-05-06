@@ -61,8 +61,8 @@
 
 ## Github Stats
 <a href="https://github.com/youngho98/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=youngho98&show_icons=true&include_all_commits=true" style="height:200px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:200px;">
+<img src="https://github-readme-stats.vercel.app/api?username=youngho98&show_icons=true&include_all_commits=true" style="height:150px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:150px;">
 </a>
 
 </div>
