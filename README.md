@@ -1,13 +1,13 @@
 <div align="center">
 
 ## 👋 Hi there, This is youngho
-[![Gmail Badge](https://img.shields.io/badge/-youngho.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:youngho.dev@gmail.com)](mailto:youngho.dev@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-youngho98-grey?style=flat&logo=github&logoColor=white&link=https://github.com/youngho98/)](https://www.github.com/youngho98/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungho98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-한양대학교 실내건축디자인학과 졸업
+<a href="https://solved.ac/bluessom"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bluessom"></a>
+<a href="mailto:youngho.dev@gmail.com"><img src="https://img.shields.io/badge/youngho.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://velog.io/@codesigner/posts"><img src="https://img.shields.io/badge/codesigner-20C997?style=flat&logo=velog&logoColor=white"></a>
 
-삼성 청년 SW 아카데미 (SSAFY) 11기 진행 중
+<li>한양대학교 실내건축디자인학과 졸업</li>
+<li>삼성 청년 SW 아카데미 (SSAFY) 11기 진행 중</li>
 
 <br>
 
@@ -42,8 +42,6 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
 
 <br>
-<br>
-<br>
 
 <!--
 ## CERTIFICATE
@@ -57,13 +55,14 @@
 -->
 
 ## Algorithm
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluessom)](https://solved.ac/bluessom)
+<a href="https://solved.ac/bluessom"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluessom"></a>
 
 <br>
 
 ## Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=youngho98&show_icons=true&include_all_commits=true)](https://github.com/youngho98/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=donut)](https://github.com/youngho98/github-readme-stats)
+<a href="https://github.com/youngho98/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=youngho98&show_icons=true&include_all_commits=true" style="height:200px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:200px;">
+</a>
 
 </div>
