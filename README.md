@@ -7,7 +7,12 @@
 <a href="https://velog.io/@codesigner/posts"><img src="https://img.shields.io/badge/codesigner-20C997?style=flat&logo=velog&logoColor=white"></a>
 
 <li>한양대학교 실내건축디자인학과 졸업</li>
-<li>삼성 청년 SW 아카데미 (SSAFY) 11기 진행 중</li>
+<li>삼성 청년 SW 아카데미 (SSAFY) 11기 1학기 수료</li>
+
+<br>
+
+## Project
+<li><a href="https://github.com/youngho98/sponity">지역 기반 운동 클럽 커뮤니티 - SPONITY</a></li>
 
 <br>
 
@@ -42,6 +47,7 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white">
 
 <br>
+<br>
 
 <!--
 ## CERTIFICATE
@@ -54,12 +60,18 @@
 <br>
 -->
 
-## Algorithm
+## Achievements
+<li>삼성 청년 SW 아카데미 1학기 성적우수상 (반 1등) - 삼성전자주식회사</li>
+<li>Hyundai Software Aptitude Test(HSAT) Level.3 - 현대엔지비 </li>
+
+<br>
+
+### Algorithm
 <a href="https://solved.ac/bluessom"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluessom"></a>
 
 <br>
 
-## Github Stats
+### Github Stats
 <a href="https://github.com/youngho98/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=youngho98&show_icons=true&include_all_commits=true" style="height:150px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:150px;">
