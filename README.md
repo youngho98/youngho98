@@ -1,10 +1,11 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcome%20to%20Youngho's%20GitHub%20👋&animation=twinkling&fontSize=36&fontAlignY=40&fontAlign=50&height=200)
-
 <a href="https://solved.ac/bluessom"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bluessom"></a>
 <a href="mailto:youngho.dev@gmail.com"><img src="https://img.shields.io/badge/youngho.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://velog.io/@codesigner/posts"><img src="https://img.shields.io/badge/codesigner-20C997?style=flat&logo=velog&logoColor=white"></a>
+
+<br>
 
 <details>
 <summary>
@@ -12,7 +13,6 @@
 </summary>
   <div> - SSAFY 11기 : 2024.01 ~ </div> 
   <div> - 1학기 Java 비전공반 수료</div>
-  <br>
 </details>
 <details>
 <summary>
@@ -20,7 +20,6 @@
 </summary>
   <div> - 2017.03 ~ 2024.02</div>
   <div> - 실내건축디자인 전공</div>
-  <br>
 </details>
 
 <br>
@@ -76,6 +75,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:150px;">
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=ThankYou%20!&animation=twinkling&fontSize=36&fontAlignY=70&fontAlign=80&height=200)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=36&fontAlignY=70&fontAlign=80&height=200)
 
 </div>
