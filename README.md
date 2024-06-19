@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcome%20to%20Youngho's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcome%20to%20Youngho's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=180)
 <a href="https://solved.ac/bluessom"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bluessom"></a>
 <a href="mailto:youngho.dev@gmail.com"><img src="https://img.shields.io/badge/youngho.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://velog.io/@codesigner/posts"><img src="https://img.shields.io/badge/codesigner-20C997?style=flat&logo=velog&logoColor=white"></a>
@@ -76,6 +76,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:150px;">
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=30&fontAlignY=70&fontAlign=80&height=180)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=30&fontAlignY=65&fontAlign=80&height=180)
 
 </div>
