@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcome%20to%20Youngho's%20GitHub%20👋&animation=twinkling&fontSize=36&fontAlignY=40&fontAlign=50&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Welcome%20to%20Youngho's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=50&height=180)
 <a href="https://solved.ac/bluessom"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bluessom"></a>
 <a href="mailto:youngho.dev@gmail.com"><img src="https://img.shields.io/badge/youngho.dev-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://velog.io/@codesigner/posts"><img src="https://img.shields.io/badge/codesigner-20C997?style=flat&logo=velog&logoColor=white"></a>
@@ -50,6 +50,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black">
 
@@ -75,6 +76,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngho98&layout=compact" style="height:150px;">
 </a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=36&fontAlignY=70&fontAlign=80&height=200)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&text=Thank%20You%20!&animation=twinkling&fontSize=30&fontAlignY=70&fontAlign=80&height=180)
 
 </div>
