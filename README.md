@@ -23,7 +23,18 @@
 <br>
 **한양대학교 실내건축디자인전공** (2017.03 ~ 2024.02)<br>
 *-- 한양실내건축디자인전(졸업작품) 우수상 (2023.11)*<br>
-*-- 제1수송교육연대 운전조교로 복무 (2021.02 ~ 2022.07)*<br>
+
+<br>  
+
+## 💻 Projects
+
+| 프로젝트명 | 설명 | 역할 | 인원 | 기간 |
+| --- | --- | --- | --- | --- | 
+| **[Movie-Recommender](https://github.com/youngho98/movie-recommender)** | LangGraph와 RAG를 활용한 지능형 하이브리드 영화 추천 Agent | ALL | 1명 | 2025.11.13 ~ 2025.11.15 | 
+| **[아장아장](https://github.com/youngho98/ajangajang)** | 지역 기반 육아용품 중고거래 서비스 | BE | 5명 | 2024.07.08 ~ 2024.08.16 | 
+| **[BusyBee](https://github.com/youngho98/busybee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스 | BE<br>IoT | 6명 | 2024.10.14 ~ 2024.11.22 | 
+| **[캐치캐치 : 시즌아레나](https://github.com/youngho98/catchcatch)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 게임 | Game<br>FE | 6명 | 2024.08.19 ~ 2024.10.11 | 
+| **[SPONITY](https://github.com/youngho98/sponity)** | 지역 기반 운동 커뮤니티 서비스 | FE | 2명 | 2024.05.13 ~ 2024.05.24 | 
 
 <br>
 
@@ -59,18 +70,6 @@
 
 **SSAFY 1학기 성적우수상**
 <br>1위 / 삼성전자 / 2024.05.24
-
-<br>  
-
-## 💻 Projects
-
-| 프로젝트명 | 설명 | 역할 | 인원 | 기간 |
-| --- | --- | --- | --- | --- | 
-| **[Movie-Recommender](https://github.com/youngho98/movie-recommender)** | LangGraph와 RAG를 활용한 지능형 하이브리드 영화 추천 Agent | ALL | 1명 | 2025.11.13 ~ 2025.11.15 | 
-| **[아장아장](https://github.com/youngho98/ajangajang)** | 지역 기반 육아용품 중고거래 서비스 | BE | 5명 | 2024.07.08 ~ 2024.08.16 | 
-| **[BusyBee](https://github.com/youngho98/busybee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스 | BE<br>IoT | 6명 | 2024.10.14 ~ 2024.11.22 | 
-| **[캐치캐치 : 시즌아레나](https://github.com/youngho98/catchcatch)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 게임 | Game<br>FE | 6명 | 2024.08.19 ~ 2024.10.11 | 
-| **[SPONITY](https://github.com/youngho98/sponity)** | 지역 기반 운동 커뮤니티 서비스 | FE | 2명 | 2024.05.13 ~ 2024.05.24 | 
 
 <br>  
 
