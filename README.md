@@ -13,8 +13,7 @@
 *-- 삼성 SDS 기술지원 IT파트 (2025.05 ~ 현재)*<br>
 *-- SW Certi Expert 대비 알고리즘 교육 수강 (2025.08)*<br>
 *-- 삼성 SDS 알고리즘 특강 강사 출강 (2025.07)*<br>
-*-- SW 신입사원 Agile 개발교육 (2025.03 ~ 2025.04)*<br>
-*-- 삼성 SDS 신입사원 OT 및 SW 공통교육 (2025.02 ~ 2025.03)*<br>
+*-- SW 직군 신입사원 Agile 개발교육 (2025.02 ~ 2025.04)*<br>
 *-- SVP 삼성그룹 신입사원 연수 (2025.01 ~ 2025.02)*<br>
 <br>
 **삼성청년SW아카데미(SSAFY)** (2024.01 ~ 2024.12)<br>
@@ -65,15 +64,17 @@
 
 ## 💻 Projects
 
-| 프로젝트명                                                                  | 설명                                                                                      | 역할         | 인원 | 기간                    | 비고                                     |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------ | ---- | ----------------------- | ---------------------------------------- |
-| **[BusyBee](https://github.com/youngho98/busybee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스. 삼성 SDS 기업 연계 프로젝트 | BE<br>IoT | 6 | 2024.10.14 ~ 2024.11.22 | 기업연계 프로젝트 우수상 |
-| **[캐치캐치 : 시즌아레나](https://github.com/youngho98/catchcatch)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 게임 | 팀장<br>Game<br>FE | 6 | 2024.08.19 ~ 2024.10.11 | 특화 프로젝트 우수상 |
-| **[아장아장](https://github.com/youngho98/ajangajang)** | 지역 기반 육아용품 중고거래 서비스 | BE | 5 | 2024.07.08 ~ 2024.08.16 | |
-| **[SPONITY](https://github.com/youngho98/sponity)** | 지역 기반 운동 커뮤니티 서비스 | FE | 2 | 2024.05.13 ~ 2024.05.24 | |
+| 프로젝트명 | 설명 | 역할 | 인원 | 기간 |
+| - | - | - | - | - | 
+| **[Movie-Recommender](https://github.com/youngho98/movie-recommender)** | LangGraph와 RAG를 활용한 지능형 하이브리드 영화 추천 Agent | ALL | 1 | 2025.11.13 ~ 2025.11.15 | 
+| **[아장아장](https://github.com/youngho98/ajangajang)** | 지역 기반 육아용품 중고거래 서비스 | BE | 5 | 2024.07.08 ~ 2024.08.16 | 
+| **[BusyBee](https://github.com/youngho98/busybee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스 | BE<br>IoT | 6 | 2024.10.14 ~ 2024.11.22 | 
+| **[캐치캐치 : 시즌아레나](https://github.com/youngho98/catchcatch)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 게임 | Game<br>FE | 6 | 2024.08.19 ~ 2024.10.11 | 
+| **[SPONITY](https://github.com/youngho98/sponity)** | 지역 기반 운동 커뮤니티 서비스 | FE | 2 | 2024.05.13 ~ 2024.05.24 | 
 
 <br>  
 
+<!--
 ## ⚙️ Stacks
 
 ### Backend
@@ -92,6 +93,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 
 <br>
+-->
 
 ## 💯 Algorithm
 
