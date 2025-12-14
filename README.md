@@ -30,7 +30,7 @@
 
 | 프로젝트명 | 설명 | 역할 | 인원 | 기간 |
 | --- | --- | --- | --- | --- | 
-| **[Movie-Recommender](https://github.com/youngho98/movie-recommender)** | LangGraph와 RAG를 활용한 지능형 하이브리드 영화 추천 Agent | ALL | 1명 | 2025.11.13 ~ 2025.11.15 | 
+| **[Movie-Recommender](https://github.com/youngho98/movie-recommender)** | LangGraph와 RAG를 활용한 지능형 하이브리드 영화 추천 Agent | ALL | 1명 | 2025.11.13 ~ 2025.11.22 | 
 | **[아장아장](https://github.com/youngho98/ajangajang)** | 지역 기반 육아용품 중고거래 서비스 | BE | 5명 | 2024.07.08 ~ 2024.08.16 | 
 | **[BusyBee](https://github.com/youngho98/busybee)** | AI 기반 업무 메일 의도 분류 및 업무 인텔리전스 자동화 서비스 | BE<br>IoT | 6명 | 2024.10.14 ~ 2024.11.22 | 
 | **[캐치캐치 : 시즌아레나](https://github.com/youngho98/catchcatch)** | 각 사계절에 따른 자연물을 수집하고 실시간 배틀하는 모바일 게임 | Game<br>FE | 6명 | 2024.08.19 ~ 2024.10.11 | 
@@ -40,9 +40,6 @@
 
 ## 🏅 Certificate
 
-**ICAgile Certified Professional**
-<br>ICAgile
-
 **SAMSUNG Software Certification Professional**
 <br>SAMSUNG SDS / 삼성SDS
 
@@ -51,6 +48,12 @@
 
 **SQLD(SQL Developer) / SQL 개발자**
 <br>Kdata / 한국데이터산업진흥원
+
+**ICAgile Certified Professional**
+<br>ICAgile
+
+**Coding Ability Test / 코딩활용능력 1급**
+<br>KAIT / 한국정보통신진흥협회
 
 **TOEIC Speaking IH**
 <br>ETS / 한국토익위원회
