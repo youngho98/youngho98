@@ -9,8 +9,12 @@
 
 ## 🧑🏻‍💻 Career
 
-**SAMSUNG SDS SW Engineer** (2025.01 ~ 현재)<br>
-*-- 삼성 SDS 기술지원 IT파트 (2025.05 ~ 현재)*<br>
+**KAKAO Android Developer** (2026.01 ~ )<br>
+*-- 카카오 톡안드로이드팀 (2026.02 ~ )*<br>
+*-- 카카오 신입사원 온보딩 (2026.01)*<br>
+<br>
+**SAMSUNG SDS SW Engineer** (2025.01 ~ 2026.01)<br>
+*-- 삼성 SDS 기술지원 IT파트 (2025.05 ~ 2026.01)*<br>
 *-- SW Certi Expert 대비 알고리즘 교육 수강 (2025.08)*<br>
 *-- 삼성 SDS 알고리즘 특강 강사 출강 (2025.07)*<br>
 *-- SW 직군 신입사원 Agile 개발교육 (2025.02 ~ 2025.04)*<br>
