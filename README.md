@@ -9,8 +9,8 @@
 
 ## 🧑🏻‍💻 Career
 
-**KAKAO Android Developer** (2026.01 ~ )<br>
-*-- 카카오 톡안드로이드팀 (2026.02 ~ )*<br>
+**KAKAO Server Developer** (2026.01 ~ )<br>
+*-- 카카오 라이브커머스스쿼드 서버 개발자 (2026.02 ~ )*<br>
 *-- 카카오 신입사원 온보딩 (2026.01)*<br>
 <br>
 **SAMSUNG SDS SW Engineer** (2025.01 ~ 2026.01)<br>
